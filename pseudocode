@@ -1,0 +1,17 @@
+ inisiasi variabel A,B,C(anggota bilangan real)
+ determinan = ((B^2)-(4*A*C))
+ IF (A==0)
+ print (a tidak boleh nol)
+ else
+ IF (determinan >0)
+ x1=(-B+sqrt(D)/(2*A))
+ x2=(-B-sqrt(D)/(2*A))
+ else
+ (determinan=0)
+ x1=-B/(2*A)
+ X1=x2
+ print (+x1 dan +x2)
+ else 
+ (determinan < 0)
+ print (determinan tidak boleh kurang dari nol)
+
